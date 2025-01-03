@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NidaMus
+- 👋 Hi, I’m @NidMus
 - 👀 I’m interested in Arduino/ ESP/ RPI
 - 🌱 I’m currently learning: Modbus RTU with Arduino IDE, exactly: with Industrial Shields PLC
 - 💞️ I’m looking to collaborate on ...
